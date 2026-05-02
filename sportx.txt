@@ -1,0 +1,248 @@
+FitMentor Chennai - AI Sports Mentor / Personal Fitness Assistant
+
+1. Core Product Idea
+
+FitMentor Chennai is a Chennai-based AI sports mentor and personal fitness assistant for students, athletes, gym users, runners, football players, cricket players, badminton players, and general fitness users.
+
+The app should not behave like a random chatbot. It should behave like a structured sports assistant that gives personalized workout guidance, basic nutrition support, recovery advice, safety checks, progress tracking, and Chennai-local recommendations.
+
+Alternative app names:
+- FitMentor Chennai
+- SportMate AI
+- Chennai Sports AI Coach
+- SportX Chennai
+
+2. Main Purpose
+
+The app helps users answer practical fitness questions such as:
+- What workout should I do today?
+- How many calories do I need?
+- What Indian foods should I eat for my goal?
+- What should I avoid before training?
+- How do I recover after a match, gym session, or run?
+- How do I improve in cricket, football, badminton, running, or general strength?
+- Am I doing too much or too little training?
+- What progress have I made this week?
+
+3. Target Users
+
+Primary users:
+- School and college students
+- Sports players
+- Gym beginners
+- Runners
+- Cricket, football, and badminton players
+- People trying to lose fat, gain muscle, or improve stamina
+- Chennai users who want local food and weather-aware guidance
+
+4. Core Features
+
+4.1 AI Sports Mentor
+
+The AI mentor should ask structured questions before giving advice:
+- Age
+- Gender
+- Height and weight
+- Fitness goal
+- Activity level
+- Sport or training type
+- Injury history
+- Available equipment
+- Training days per week
+- Food preference: vegetarian, non-vegetarian, egg, vegan
+- Location context: Chennai heat, humidity, outdoor training time
+
+The assistant should then create a safe, realistic plan instead of giving generic advice.
+
+4.2 Workout Planner
+
+The app should generate plans for:
+- Fat loss
+- Muscle gain
+- Strength
+- Stamina
+- Flexibility
+- Sport-specific performance
+- Beginner gym training
+- Home workouts
+- Bodyweight training
+- Running plans
+
+Each workout should include:
+- Warm-up
+- Main workout
+- Sets, reps, rest time, or duration
+- Cooldown
+- Difficulty level
+- Safety notes
+
+4.3 Sport-Specific Coaching
+
+The app should support:
+- Cricket: batting fitness, bowling workload, shoulder care, sprint drills
+- Football: stamina, agility, sprint recovery, lower-body strength
+- Badminton: footwork, reaction speed, shoulder mobility, knee safety
+- Running: pace, distance, weekly mileage, injury prevention
+- Gym training: strength, hypertrophy, technique basics
+
+4.4 Nutrition and Indian Food Guidance
+
+The app should calculate:
+- Estimated maintenance calories
+- Fat-loss calorie target
+- Muscle-gain calorie target
+- Protein requirement
+- Hydration need
+- Pre-workout and post-workout food suggestions
+
+Indian food examples:
+- Idli with sambar
+- Dosa with chutney and sambar
+- Curd rice
+- Lemon rice
+- Chapati with dal
+- Rice with chicken curry
+- Egg dosa
+- Paneer, tofu, sprouts, channa, rajma, dal
+- Banana, tender coconut water, buttermilk
+
+The app should avoid extreme dieting advice. It should encourage balanced meals with protein, carbohydrates, vegetables, healthy fats, and enough water.
+
+4.5 Chennai-Local Intelligence
+
+The app should adapt recommendations for Chennai conditions:
+- Hot and humid weather
+- Outdoor training safety
+- Hydration reminders
+- Early morning or evening workout suggestions
+- Heat exhaustion warning signs
+- Local food options
+- Nearby sports grounds, gyms, tracks, swimming pools, or courts in future versions
+
+4.6 Recovery Assistant
+
+The assistant should guide users on:
+- Sleep
+- Rest days
+- Stretching
+- Mobility
+- Deload weeks
+- Soreness management
+- Overtraining warning signs
+- Injury red flags
+
+It should clearly say when a user should consult a doctor, physiotherapist, or certified coach.
+
+4.7 Progress Tracking
+
+The app should track:
+- Body weight
+- Workout completion
+- Running distance and pace
+- Strength progress
+- Calories and protein target
+- Sleep
+- Mood and energy
+- Injuries or pain
+- Weekly consistency score
+
+Progress should be shown with simple summaries:
+- "You trained 4 days this week."
+- "Your average sleep improved by 40 minutes."
+- "Your squat weight increased by 5 kg."
+- "Your running pace improved from 7:20/km to 6:55/km."
+
+5. Safety Rules
+
+The app must include safety checks:
+- Do not provide medical diagnosis.
+- Do not give unsafe crash diets.
+- Do not push users to train through sharp pain, chest pain, dizziness, or breathing difficulty.
+- Do not recommend supplements as mandatory.
+- Do not give steroid or banned-substance advice.
+- For minors, keep advice conservative and age-appropriate.
+- For injuries, pregnancy, chronic illness, or heart symptoms, recommend professional medical guidance.
+
+6. Evidence-Based Baseline
+
+Use public health guidance as the app's foundation.
+
+WHO states that regular physical activity provides major physical and mental health benefits. WHO guidance also says that some physical activity is better than none, and adults should generally aim for 150-300 minutes of moderate-intensity aerobic activity per week or 75-150 minutes of vigorous activity per week, plus muscle-strengthening activities at least 2 days per week. Children and adolescents should average at least 60 minutes per day of moderate-to-vigorous physical activity across the week.
+
+The app should convert these guidelines into simple, personalized weekly goals.
+
+7. Example User Flow
+
+Step 1: User opens app.
+
+Step 2: App asks:
+"What is your main goal?"
+- Lose fat
+- Build muscle
+- Improve stamina
+- Improve sport performance
+- Stay healthy
+
+Step 3: App collects profile details.
+
+Step 4: App creates a weekly plan:
+- Workout days
+- Rest days
+- Food targets
+- Hydration reminders
+- Recovery tips
+
+Step 5: User logs daily progress.
+
+Step 6: AI mentor adjusts the plan every week.
+
+8. Example AI Response
+
+User:
+"I am 20 years old, 72 kg, from Chennai. I play football and want better stamina."
+
+AI:
+"Your goal is football stamina, so we will combine running, sprint intervals, leg strength, mobility, and recovery. Since Chennai is hot and humid, do intense outdoor sessions before 8 AM or after 5:30 PM. Start with 3 training days and 2 light mobility days this week.
+
+Today:
+Warm-up: 8 minutes light jog and dynamic stretches
+Main: 6 rounds of 30-second fast run + 90-second walk
+Strength: 3 sets of squats, lunges, calf raises
+Cooldown: 5 minutes walking and stretching
+
+Food:
+Have banana or idli before training. After training, eat rice or chapati with dal, eggs, chicken, paneer, or channa. Drink water and consider buttermilk or tender coconut water if you sweat heavily.
+
+Stop training and seek help if you feel chest pain, dizziness, faintness, or sharp pain."
+
+9. MVP Features
+
+Version 1 should include:
+- User profile setup
+- Goal selection
+- AI workout planner
+- Calorie and protein calculator
+- Indian meal suggestions
+- Workout logging
+- Weekly progress summary
+- Safety warnings
+- Chennai heat and hydration tips
+
+10. Future Features
+
+Future versions can include:
+- Wearable integration
+- GPS run tracking
+- Sports-ground finder
+- Coach marketplace
+- Team training plans
+- Injury-risk alerts
+- Tamil language support
+- Voice assistant
+- Photo-based meal logging
+- Progress charts
+- Community challenges
+
+11. Positioning Statement
+
+FitMentor Chennai is a local-first AI fitness and sports mentor that combines structured training, Indian nutrition, recovery guidance, and Chennai-aware safety tips. It is built for real users who need practical daily coaching, not random motivational chatbot answers.

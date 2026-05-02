@@ -1,0 +1,17 @@
+[
+  {
+    "id": "malayalam-indic-input",
+    "language": "Malayalam",
+    "locale": "ml-IN",
+    "type": "keyboard-input",
+    "name": "Malayalam Indic Input 1/2/3 + ILIT",
+    "description": "Repo-local Malayalam keyboard and transliteration input installer bundle. This helps users type Malayalam text, notes, and prompts inside the app.",
+    "file": "malayalam-indic-input/malayalam-indic-input-1-2-3-all.zip",
+    "source": "Local user-provided package",
+    "voiceCapable": false,
+    "notes": [
+      "This is an input method package, not a text-to-speech voice model.",
+      "Use it for Malayalam typing support. Malayalam voice playback still needs a local TTS model such as Piper."
+    ]
+  }
+]
