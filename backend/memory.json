@@ -45420,5 +45420,1627 @@
         }
       ]
     }
+  },
+  {
+    "generatedAt": "2026-05-02T13:18:00.352Z",
+    "userProfile": {
+      "name": "Aarav",
+      "age": 20,
+      "gender": "Male",
+      "heightCm": 174,
+      "weightKg": 72,
+      "goal": "Healthy weight gain",
+      "sport": "Football",
+      "activityLevel": "Moderate",
+      "foodPreference": "Non-vegetarian",
+      "language": "English",
+      "voiceLanguage": "English",
+      "chennaiArea": "Bengaluru",
+      "outdoorTrainingTime": "Early morning",
+      "trainingDays": 4,
+      "durationWeeks": 8,
+      "injuryHistory": "",
+      "equipment": "Home/bodyweight"
+    },
+    "roadmap": {
+      "success": true,
+      "partial": false,
+      "generatedAt": "2026-05-02T13:18:00.352Z",
+      "errors": [],
+      "userProfile": {
+        "name": "Aarav",
+        "age": 20,
+        "gender": "Male",
+        "heightCm": 174,
+        "weightKg": 72,
+        "goal": "Healthy weight gain",
+        "sport": "Football",
+        "activityLevel": "Moderate",
+        "foodPreference": "Non-vegetarian",
+        "language": "English",
+        "voiceLanguage": "English",
+        "chennaiArea": "Bengaluru",
+        "outdoorTrainingTime": "Early morning",
+        "trainingDays": 4,
+        "durationWeeks": 8,
+        "injuryHistory": "",
+        "equipment": "Home/bodyweight"
+      },
+      "mentorSummary": "Aarav, this 4-session weekly plan is built for healthy weight gain through football training near Bengaluru. Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress. No injury history was entered, so the plan starts with normal beginner-safe checks.",
+      "caloriePlan": {
+        "maintenanceCalories": 2570,
+        "targetCalories": 2920,
+        "proteinGrams": 130,
+        "hydrationLitres": 3.2
+      },
+      "weeklyPlan": [
+        {
+          "day": "Monday",
+          "focus": "Aerobic Base",
+          "session": [
+            "Warm-up: 8 minutes brisk walk or light jog, then dynamic mobility",
+            "Main: Aerobic Base work for 25-35 minutes at moderate intensity",
+            "Strength: 3 rounds of squats, lunges, push-ups, rows, and plank using Home/bodyweight",
+            "Conditioning: 6 rounds of 30-second fast effort plus 90-second easy recovery",
+            "Cooldown: 5 minutes walking and slow breathing",
+            "India weather note: Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress."
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "focus": "Sprint Intervals",
+          "session": [
+            "Warm-up: 8 minutes brisk walk or light jog, then dynamic mobility",
+            "Main: Sprint Intervals work for 25-35 minutes at moderate intensity",
+            "Strength: 3 rounds of squats, lunges, push-ups, rows, and plank using Home/bodyweight",
+            "Skill: 15 minutes of controlled technique practice with full recovery between efforts",
+            "Cooldown: 5 minutes walking and slow breathing",
+            "India weather note: Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress."
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "focus": "Agility",
+          "session": [
+            "Warm-up: 8 minutes brisk walk or light jog, then dynamic mobility",
+            "Main: Agility work for 25-35 minutes at moderate intensity",
+            "Strength: 3 rounds of squats, lunges, push-ups, rows, and plank using Home/bodyweight",
+            "Conditioning: 6 rounds of 30-second fast effort plus 90-second easy recovery",
+            "Cooldown: 5 minutes walking and slow breathing",
+            "India weather note: Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress."
+          ]
+        },
+        {
+          "day": "Thursday",
+          "focus": "Single-leg Strength",
+          "session": [
+            "Warm-up: 8 minutes brisk walk or light jog, then dynamic mobility",
+            "Main: Single-leg Strength work for 25-35 minutes at moderate intensity",
+            "Strength: 3 rounds of squats, lunges, push-ups, rows, and plank using Home/bodyweight",
+            "Skill: 15 minutes of controlled technique practice with full recovery between efforts",
+            "Cooldown: 5 minutes walking and slow breathing",
+            "India weather note: Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress."
+          ]
+        },
+        {
+          "day": "Sunday",
+          "focus": "Recovery",
+          "session": [
+            "20-30 minutes easy walk",
+            "Light stretching for hips, calves, chest, and shoulders",
+            "Review weight, sleep, soreness, and training notes"
+          ]
+        }
+      ],
+      "multiWeekPlan": [
+        {
+          "week": 1,
+          "theme": "Foundation",
+          "coachingCue": "Progress only when movement quality, sleep, and soreness are under control.",
+          "days": [
+            {
+              "day": "Monday",
+              "focus": "Aerobic Base - Foundation",
+              "session": [
+                "Warm-up: 8 minutes brisk walk or light jog, then dynamic mobility",
+                "Main: Aerobic Base work for 25-35 minutes at moderate intensity",
+                "Strength: 3 rounds of squats, lunges, push-ups, rows, and plank using Home/bodyweight",
+                "Conditioning: 6 rounds of 30-second fast effort plus 90-second easy recovery",
+                "Cooldown: 5 minutes walking and slow breathing",
+                "India weather note: Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress."
+              ]
+            },
+            {
+              "day": "Tuesday",
+              "focus": "Sprint Intervals - Foundation",
+              "session": [
+                "Warm-up: 8 minutes brisk walk or light jog, then dynamic mobility",
+                "Main: Sprint Intervals work for 25-35 minutes at moderate intensity",
+                "Strength: 3 rounds of squats, lunges, push-ups, rows, and plank using Home/bodyweight",
+                "Skill: 15 minutes of controlled technique practice with full recovery between efforts",
+                "Cooldown: 5 minutes walking and slow breathing",
+                "India weather note: Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress."
+              ]
+            },
+            {
+              "day": "Wednesday",
+              "focus": "Agility - Foundation",
+              "session": [
+                "Warm-up: 8 minutes brisk walk or light jog, then dynamic mobility",
+                "Main: Agility work for 25-35 minutes at moderate intensity",
+                "Strength: 3 rounds of squats, lunges, push-ups, rows, and plank using Home/bodyweight",
+                "Conditioning: 6 rounds of 30-second fast effort plus 90-second easy recovery",
+                "Cooldown: 5 minutes walking and slow breathing",
+                "India weather note: Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress."
+              ]
+            },
+            {
+              "day": "Thursday",
+              "focus": "Single-leg Strength - Foundation",
+              "session": [
+                "Warm-up: 8 minutes brisk walk or light jog, then dynamic mobility",
+                "Main: Single-leg Strength work for 25-35 minutes at moderate intensity",
+                "Strength: 3 rounds of squats, lunges, push-ups, rows, and plank using Home/bodyweight",
+                "Skill: 15 minutes of controlled technique practice with full recovery between efforts",
+                "Cooldown: 5 minutes walking and slow breathing",
+                "India weather note: Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress."
+              ]
+            },
+            {
+              "day": "Sunday",
+              "focus": "Recovery",
+              "session": [
+                "20-30 minutes easy walk",
+                "Light stretching for hips, calves, chest, and shoulders",
+                "Review weight, sleep, soreness, and training notes"
+              ]
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "theme": "Foundation",
+          "coachingCue": "Progress only when movement quality, sleep, and soreness are under control.",
+          "days": [
+            {
+              "day": "Monday",
+              "focus": "Aerobic Base - Foundation",
+              "session": [
+                "Warm-up: 8 minutes brisk walk or light jog, then dynamic mobility",
+                "Main: Aerobic Base work for 25-35 minutes at moderate intensity",
+                "Strength: 3 rounds of squats, lunges, push-ups, rows, and plank using Home/bodyweight",
+                "Conditioning: 6 rounds of 30-second fast effort plus 90-second easy recovery",
+                "Cooldown: 5 minutes walking and slow breathing",
+                "India weather note: Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress."
+              ]
+            },
+            {
+              "day": "Tuesday",
+              "focus": "Sprint Intervals - Foundation",
+              "session": [
+                "Warm-up: 8 minutes brisk walk or light jog, then dynamic mobility",
+                "Main: Sprint Intervals work for 25-35 minutes at moderate intensity",
+                "Strength: 3 rounds of squats, lunges, push-ups, rows, and plank using Home/bodyweight",
+                "Skill: 15 minutes of controlled technique practice with full recovery between efforts",
+                "Cooldown: 5 minutes walking and slow breathing",
+                "India weather note: Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress."
+              ]
+            },
+            {
+              "day": "Wednesday",
+              "focus": "Agility - Foundation",
+              "session": [
+                "Warm-up: 8 minutes brisk walk or light jog, then dynamic mobility",
+                "Main: Agility work for 25-35 minutes at moderate intensity",
+                "Strength: 3 rounds of squats, lunges, push-ups, rows, and plank using Home/bodyweight",
+                "Conditioning: 6 rounds of 30-second fast effort plus 90-second easy recovery",
+                "Cooldown: 5 minutes walking and slow breathing",
+                "India weather note: Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress."
+              ]
+            },
+            {
+              "day": "Thursday",
+              "focus": "Single-leg Strength - Foundation",
+              "session": [
+                "Warm-up: 8 minutes brisk walk or light jog, then dynamic mobility",
+                "Main: Single-leg Strength work for 25-35 minutes at moderate intensity",
+                "Strength: 3 rounds of squats, lunges, push-ups, rows, and plank using Home/bodyweight",
+                "Skill: 15 minutes of controlled technique practice with full recovery between efforts",
+                "Cooldown: 5 minutes walking and slow breathing",
+                "India weather note: Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress."
+              ]
+            },
+            {
+              "day": "Sunday",
+              "focus": "Recovery",
+              "session": [
+                "20-30 minutes easy walk",
+                "Light stretching for hips, calves, chest, and shoulders",
+                "Review weight, sleep, soreness, and training notes"
+              ]
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "theme": "Skill Build",
+          "coachingCue": "Progress only when movement quality, sleep, and soreness are under control.",
+          "days": [
+            {
+              "day": "Monday",
+              "focus": "Aerobic Base - Skill Build",
+              "session": [
+                "Warm-up: 8 minutes brisk walk or light jog, then dynamic mobility",
+                "Main: Aerobic Base work for 25-35 minutes at moderate intensity",
+                "Strength: 3 rounds of squats, lunges, push-ups, rows, and plank using Home/bodyweight",
+                "Conditioning: 6 rounds of 30-second fast effort plus 90-second easy recovery",
+                "Cooldown: 5 minutes walking and slow breathing",
+                "India weather note: Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress."
+              ]
+            },
+            {
+              "day": "Tuesday",
+              "focus": "Sprint Intervals - Skill Build",
+              "session": [
+                "Warm-up: 8 minutes brisk walk or light jog, then dynamic mobility",
+                "Main: Sprint Intervals work for 25-35 minutes at moderate intensity",
+                "Strength: 3 rounds of squats, lunges, push-ups, rows, and plank using Home/bodyweight",
+                "Skill: 15 minutes of controlled technique practice with full recovery between efforts",
+                "Cooldown: 5 minutes walking and slow breathing",
+                "India weather note: Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress."
+              ]
+            },
+            {
+              "day": "Wednesday",
+              "focus": "Agility - Skill Build",
+              "session": [
+                "Warm-up: 8 minutes brisk walk or light jog, then dynamic mobility",
+                "Main: Agility work for 25-35 minutes at moderate intensity",
+                "Strength: 3 rounds of squats, lunges, push-ups, rows, and plank using Home/bodyweight",
+                "Conditioning: 6 rounds of 30-second fast effort plus 90-second easy recovery",
+                "Cooldown: 5 minutes walking and slow breathing",
+                "India weather note: Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress."
+              ]
+            },
+            {
+              "day": "Thursday",
+              "focus": "Single-leg Strength - Skill Build",
+              "session": [
+                "Warm-up: 8 minutes brisk walk or light jog, then dynamic mobility",
+                "Main: Single-leg Strength work for 25-35 minutes at moderate intensity",
+                "Strength: 3 rounds of squats, lunges, push-ups, rows, and plank using Home/bodyweight",
+                "Skill: 15 minutes of controlled technique practice with full recovery between efforts",
+                "Cooldown: 5 minutes walking and slow breathing",
+                "India weather note: Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress."
+              ]
+            },
+            {
+              "day": "Sunday",
+              "focus": "Recovery",
+              "session": [
+                "20-30 minutes easy walk",
+                "Light stretching for hips, calves, chest, and shoulders",
+                "Review weight, sleep, soreness, and training notes"
+              ]
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "theme": "Skill Build",
+          "coachingCue": "Progress only when movement quality, sleep, and soreness are under control.",
+          "days": [
+            {
+              "day": "Monday",
+              "focus": "Aerobic Base - Skill Build",
+              "session": [
+                "Warm-up: 8 minutes brisk walk or light jog, then dynamic mobility",
+                "Main: Aerobic Base work for 25-35 minutes at moderate intensity",
+                "Strength: 3 rounds of squats, lunges, push-ups, rows, and plank using Home/bodyweight",
+                "Conditioning: 6 rounds of 30-second fast effort plus 90-second easy recovery",
+                "Cooldown: 5 minutes walking and slow breathing",
+                "India weather note: Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress."
+              ]
+            },
+            {
+              "day": "Tuesday",
+              "focus": "Sprint Intervals - Skill Build",
+              "session": [
+                "Warm-up: 8 minutes brisk walk or light jog, then dynamic mobility",
+                "Main: Sprint Intervals work for 25-35 minutes at moderate intensity",
+                "Strength: 3 rounds of squats, lunges, push-ups, rows, and plank using Home/bodyweight",
+                "Skill: 15 minutes of controlled technique practice with full recovery between efforts",
+                "Cooldown: 5 minutes walking and slow breathing",
+                "India weather note: Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress."
+              ]
+            },
+            {
+              "day": "Wednesday",
+              "focus": "Agility - Skill Build",
+              "session": [
+                "Warm-up: 8 minutes brisk walk or light jog, then dynamic mobility",
+                "Main: Agility work for 25-35 minutes at moderate intensity",
+                "Strength: 3 rounds of squats, lunges, push-ups, rows, and plank using Home/bodyweight",
+                "Conditioning: 6 rounds of 30-second fast effort plus 90-second easy recovery",
+                "Cooldown: 5 minutes walking and slow breathing",
+                "India weather note: Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress."
+              ]
+            },
+            {
+              "day": "Thursday",
+              "focus": "Single-leg Strength - Skill Build",
+              "session": [
+                "Warm-up: 8 minutes brisk walk or light jog, then dynamic mobility",
+                "Main: Single-leg Strength work for 25-35 minutes at moderate intensity",
+                "Strength: 3 rounds of squats, lunges, push-ups, rows, and plank using Home/bodyweight",
+                "Skill: 15 minutes of controlled technique practice with full recovery between efforts",
+                "Cooldown: 5 minutes walking and slow breathing",
+                "India weather note: Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress."
+              ]
+            },
+            {
+              "day": "Sunday",
+              "focus": "Recovery",
+              "session": [
+                "20-30 minutes easy walk",
+                "Light stretching for hips, calves, chest, and shoulders",
+                "Review weight, sleep, soreness, and training notes"
+              ]
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "theme": "Intensity",
+          "coachingCue": "Progress only when movement quality, sleep, and soreness are under control.",
+          "days": [
+            {
+              "day": "Monday",
+              "focus": "Aerobic Base - Intensity",
+              "session": [
+                "Warm-up: 8 minutes brisk walk or light jog, then dynamic mobility",
+                "Main: Aerobic Base work for 25-35 minutes at moderate intensity",
+                "Strength: 3 rounds of squats, lunges, push-ups, rows, and plank using Home/bodyweight",
+                "Conditioning: 6 rounds of 30-second fast effort plus 90-second easy recovery",
+                "Cooldown: 5 minutes walking and slow breathing",
+                "India weather note: Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress."
+              ]
+            },
+            {
+              "day": "Tuesday",
+              "focus": "Sprint Intervals - Intensity",
+              "session": [
+                "Warm-up: 8 minutes brisk walk or light jog, then dynamic mobility",
+                "Main: Sprint Intervals work for 25-35 minutes at moderate intensity",
+                "Strength: 3 rounds of squats, lunges, push-ups, rows, and plank using Home/bodyweight",
+                "Skill: 15 minutes of controlled technique practice with full recovery between efforts",
+                "Cooldown: 5 minutes walking and slow breathing",
+                "India weather note: Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress."
+              ]
+            },
+            {
+              "day": "Wednesday",
+              "focus": "Agility - Intensity",
+              "session": [
+                "Warm-up: 8 minutes brisk walk or light jog, then dynamic mobility",
+                "Main: Agility work for 25-35 minutes at moderate intensity",
+                "Strength: 3 rounds of squats, lunges, push-ups, rows, and plank using Home/bodyweight",
+                "Conditioning: 6 rounds of 30-second fast effort plus 90-second easy recovery",
+                "Cooldown: 5 minutes walking and slow breathing",
+                "India weather note: Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress."
+              ]
+            },
+            {
+              "day": "Thursday",
+              "focus": "Single-leg Strength - Intensity",
+              "session": [
+                "Warm-up: 8 minutes brisk walk or light jog, then dynamic mobility",
+                "Main: Single-leg Strength work for 25-35 minutes at moderate intensity",
+                "Strength: 3 rounds of squats, lunges, push-ups, rows, and plank using Home/bodyweight",
+                "Skill: 15 minutes of controlled technique practice with full recovery between efforts",
+                "Cooldown: 5 minutes walking and slow breathing",
+                "India weather note: Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress."
+              ]
+            },
+            {
+              "day": "Sunday",
+              "focus": "Recovery",
+              "session": [
+                "20-30 minutes easy walk",
+                "Light stretching for hips, calves, chest, and shoulders",
+                "Review weight, sleep, soreness, and training notes"
+              ]
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "theme": "Intensity",
+          "coachingCue": "Progress only when movement quality, sleep, and soreness are under control.",
+          "days": [
+            {
+              "day": "Monday",
+              "focus": "Aerobic Base - Intensity",
+              "session": [
+                "Warm-up: 8 minutes brisk walk or light jog, then dynamic mobility",
+                "Main: Aerobic Base work for 25-35 minutes at moderate intensity",
+                "Strength: 3 rounds of squats, lunges, push-ups, rows, and plank using Home/bodyweight",
+                "Conditioning: 6 rounds of 30-second fast effort plus 90-second easy recovery",
+                "Cooldown: 5 minutes walking and slow breathing",
+                "India weather note: Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress."
+              ]
+            },
+            {
+              "day": "Tuesday",
+              "focus": "Sprint Intervals - Intensity",
+              "session": [
+                "Warm-up: 8 minutes brisk walk or light jog, then dynamic mobility",
+                "Main: Sprint Intervals work for 25-35 minutes at moderate intensity",
+                "Strength: 3 rounds of squats, lunges, push-ups, rows, and plank using Home/bodyweight",
+                "Skill: 15 minutes of controlled technique practice with full recovery between efforts",
+                "Cooldown: 5 minutes walking and slow breathing",
+                "India weather note: Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress."
+              ]
+            },
+            {
+              "day": "Wednesday",
+              "focus": "Agility - Intensity",
+              "session": [
+                "Warm-up: 8 minutes brisk walk or light jog, then dynamic mobility",
+                "Main: Agility work for 25-35 minutes at moderate intensity",
+                "Strength: 3 rounds of squats, lunges, push-ups, rows, and plank using Home/bodyweight",
+                "Conditioning: 6 rounds of 30-second fast effort plus 90-second easy recovery",
+                "Cooldown: 5 minutes walking and slow breathing",
+                "India weather note: Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress."
+              ]
+            },
+            {
+              "day": "Thursday",
+              "focus": "Single-leg Strength - Intensity",
+              "session": [
+                "Warm-up: 8 minutes brisk walk or light jog, then dynamic mobility",
+                "Main: Single-leg Strength work for 25-35 minutes at moderate intensity",
+                "Strength: 3 rounds of squats, lunges, push-ups, rows, and plank using Home/bodyweight",
+                "Skill: 15 minutes of controlled technique practice with full recovery between efforts",
+                "Cooldown: 5 minutes walking and slow breathing",
+                "India weather note: Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress."
+              ]
+            },
+            {
+              "day": "Sunday",
+              "focus": "Recovery",
+              "session": [
+                "20-30 minutes easy walk",
+                "Light stretching for hips, calves, chest, and shoulders",
+                "Review weight, sleep, soreness, and training notes"
+              ]
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "theme": "Tournament Ready",
+          "coachingCue": "Progress only when movement quality, sleep, and soreness are under control.",
+          "days": [
+            {
+              "day": "Monday",
+              "focus": "Aerobic Base - Tournament Ready",
+              "session": [
+                "Warm-up: 8 minutes brisk walk or light jog, then dynamic mobility",
+                "Main: Aerobic Base work for 25-35 minutes at moderate intensity",
+                "Strength: 3 rounds of squats, lunges, push-ups, rows, and plank using Home/bodyweight",
+                "Conditioning: 6 rounds of 30-second fast effort plus 90-second easy recovery",
+                "Cooldown: 5 minutes walking and slow breathing",
+                "India weather note: Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress."
+              ]
+            },
+            {
+              "day": "Tuesday",
+              "focus": "Sprint Intervals - Tournament Ready",
+              "session": [
+                "Warm-up: 8 minutes brisk walk or light jog, then dynamic mobility",
+                "Main: Sprint Intervals work for 25-35 minutes at moderate intensity",
+                "Strength: 3 rounds of squats, lunges, push-ups, rows, and plank using Home/bodyweight",
+                "Skill: 15 minutes of controlled technique practice with full recovery between efforts",
+                "Cooldown: 5 minutes walking and slow breathing",
+                "India weather note: Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress."
+              ]
+            },
+            {
+              "day": "Wednesday",
+              "focus": "Agility - Tournament Ready",
+              "session": [
+                "Warm-up: 8 minutes brisk walk or light jog, then dynamic mobility",
+                "Main: Agility work for 25-35 minutes at moderate intensity",
+                "Strength: 3 rounds of squats, lunges, push-ups, rows, and plank using Home/bodyweight",
+                "Conditioning: 6 rounds of 30-second fast effort plus 90-second easy recovery",
+                "Cooldown: 5 minutes walking and slow breathing",
+                "India weather note: Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress."
+              ]
+            },
+            {
+              "day": "Thursday",
+              "focus": "Single-leg Strength - Tournament Ready",
+              "session": [
+                "Warm-up: 8 minutes brisk walk or light jog, then dynamic mobility",
+                "Main: Single-leg Strength work for 25-35 minutes at moderate intensity",
+                "Strength: 3 rounds of squats, lunges, push-ups, rows, and plank using Home/bodyweight",
+                "Skill: 15 minutes of controlled technique practice with full recovery between efforts",
+                "Cooldown: 5 minutes walking and slow breathing",
+                "India weather note: Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress."
+              ]
+            },
+            {
+              "day": "Sunday",
+              "focus": "Recovery",
+              "session": [
+                "20-30 minutes easy walk",
+                "Light stretching for hips, calves, chest, and shoulders",
+                "Review weight, sleep, soreness, and training notes"
+              ]
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "theme": "Tournament Ready",
+          "coachingCue": "Keep sessions sharp and reduce extra fatigue so performance feels fresh.",
+          "days": [
+            {
+              "day": "Monday",
+              "focus": "Aerobic Base - Tournament Ready",
+              "session": [
+                "Warm-up: 8 minutes brisk walk or light jog, then dynamic mobility",
+                "Main: Aerobic Base work for 25-35 minutes at moderate intensity",
+                "Strength: 3 rounds of squats, lunges, push-ups, rows, and plank using Home/bodyweight",
+                "Conditioning: 6 rounds of 30-second fast effort plus 90-second easy recovery",
+                "Cooldown: 5 minutes walking and slow breathing",
+                "India weather note: Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress."
+              ]
+            },
+            {
+              "day": "Tuesday",
+              "focus": "Sprint Intervals - Tournament Ready",
+              "session": [
+                "Warm-up: 8 minutes brisk walk or light jog, then dynamic mobility",
+                "Main: Sprint Intervals work for 25-35 minutes at moderate intensity",
+                "Strength: 3 rounds of squats, lunges, push-ups, rows, and plank using Home/bodyweight",
+                "Skill: 15 minutes of controlled technique practice with full recovery between efforts",
+                "Cooldown: 5 minutes walking and slow breathing",
+                "India weather note: Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress."
+              ]
+            },
+            {
+              "day": "Wednesday",
+              "focus": "Agility - Tournament Ready",
+              "session": [
+                "Warm-up: 8 minutes brisk walk or light jog, then dynamic mobility",
+                "Main: Agility work for 25-35 minutes at moderate intensity",
+                "Strength: 3 rounds of squats, lunges, push-ups, rows, and plank using Home/bodyweight",
+                "Conditioning: 6 rounds of 30-second fast effort plus 90-second easy recovery",
+                "Cooldown: 5 minutes walking and slow breathing",
+                "India weather note: Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress."
+              ]
+            },
+            {
+              "day": "Thursday",
+              "focus": "Single-leg Strength - Tournament Ready",
+              "session": [
+                "Warm-up: 8 minutes brisk walk or light jog, then dynamic mobility",
+                "Main: Single-leg Strength work for 25-35 minutes at moderate intensity",
+                "Strength: 3 rounds of squats, lunges, push-ups, rows, and plank using Home/bodyweight",
+                "Skill: 15 minutes of controlled technique practice with full recovery between efforts",
+                "Cooldown: 5 minutes walking and slow breathing",
+                "India weather note: Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress."
+              ]
+            },
+            {
+              "day": "Sunday",
+              "focus": "Recovery",
+              "session": [
+                "20-30 minutes easy walk",
+                "Light stretching for hips, calves, chest, and shoulders",
+                "Review weight, sleep, soreness, and training notes"
+              ]
+            }
+          ]
+        }
+      ],
+      "foodGuidance": {
+        "preWorkout": [
+          "Banana with water",
+          "Idli with sambar",
+          "Small dosa with chutney if training is more than 60 minutes away"
+        ],
+        "postWorkout": [
+          "Rice or chapati with eggs, chicken, fish, curd, dal, paneer, or channa",
+          "Curd rice or buttermilk when appetite is low after heat exposure",
+          "Tender coconut water after heavy sweating"
+        ],
+        "dailyMeals": [
+          "Build each meal around protein, rice or chapati, vegetables, and a small amount of healthy fat",
+          "Keep fried snacks and sugary drinks occasional, especially during fat-loss phases",
+          "Do not use crash diets; adjust portions gradually and track weekly progress"
+        ]
+      },
+      "languageSupport": {
+        "selectedLanguage": "English",
+        "selectedVoiceLanguage": "English",
+        "voiceLocale": "en-IN",
+        "note": "Use English for mentor text and English for voice conversations when the browser supports this language."
+      },
+      "voiceScript": "Aarav, this 4-session weekly plan is built for healthy weight gain through football training near Bengaluru. Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress. No injury history was entered, so the plan starts with normal beginner-safe checks. Target calories: 2920. Protein: 130 grams. Water: 3.2 litres. Monday. Aerobic Base. Warm-up: 8 minutes brisk walk or light jog, then dynamic mobility Main: Aerobic Base work for 25-35 minutes at moderate intensity Strength: 3 rounds of squats, lunges, push-ups, rows, and plank using Home/bodyweight Conditioning: 6 rounds of 30-second fast effort plus 90-second easy recovery Cooldown: 5 minutes walking and slow breathing India weather note: Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress. Banana with water Idli with sambar Small dosa with chutney if training is more than 60 minutes away Rice or chapati with eggs, chicken, fish, curd, dal, paneer, or channa Curd rice or buttermilk when appetite is low after heat exposure Tender coconut water after heavy sweating This is fitness guidance, not a medical diagnosis. Stop exercise and seek medical help for chest pain, faintness, severe breathlessness, or dizziness. Do not train through sharp pain or swelling. Increase weekly running volume or lifting load gradually. Supplements are optional and should not replace normal food. Do not use steroids, banned substances, or crash diets. For pregnancy, chronic illness, heart symptoms, or active injuries, consult a doctor, physiotherapist, or certified coach.",
+      "sportGuidance": {
+        "sport": "Football",
+        "level": "Moderate",
+        "goal": "Healthy weight gain",
+        "mentor": [
+          "Balance stamina with ball work so fitness transfers directly into match decisions.",
+          "Use small-sided games for scanning, passing timing, pressing, and recovery runs.",
+          "Review one tactical theme each week: positioning, transition, pressing, or finishing."
+        ],
+        "fitness": [
+          "Alternate aerobic base runs with sprint intervals and change-of-direction work.",
+          "Add single-leg strength for acceleration, deceleration, and knee control.",
+          "Keep mobility for hips, ankles, hamstrings, and calves after every session."
+        ],
+        "tournament": [
+          "Ten days out: make sessions more match-like and reduce extra conditioning.",
+          "Two days out: use light touches, passing rhythm, and set-piece rehearsal.",
+          "Game day: eat early, hydrate steadily, and warm up with progressive sprints."
+        ],
+        "drills": [
+          "5v5 possession",
+          "Cone agility with ball",
+          "First-touch wall passes",
+          "Finishing after sprint"
+        ],
+        "milestones": [
+          "Better beep-test or timed-run score",
+          "Cleaner first touch",
+          "More successful presses",
+          "Stable late-game energy"
+        ],
+        "equipment": [
+          "Studs or turf shoes, shin guards, ball, cones, bibs",
+          "Foam roller or massage ball",
+          "Hydration bottle for interval sessions"
+        ],
+        "tactics": [
+          "Scan before receiving the ball",
+          "Create passing angles after every pass",
+          "Press as a unit and recover shape quickly"
+        ],
+        "injuryPrevention": [
+          "Train hamstring eccentric strength",
+          "Practice deceleration and knee alignment",
+          "Keep ankle and hip mobility consistent"
+        ],
+        "nutrition": [
+          "Use carb-rich meals 3-4 hours before matches",
+          "Hydrate before warm-up, not only after sweating",
+          "Recover with protein and fluids within 60 minutes"
+        ],
+        "eventFormats": [
+          "League match",
+          "Knockout tournament",
+          "Five-a-side event",
+          "Selection trial"
+        ],
+        "mistakes": [
+          "Running without ball work",
+          "Overtraining sprints before matches",
+          "Skipping cool-down after hard play"
+        ],
+        "videoMentors": [
+          {
+            "title": "Football beginner mentor",
+            "topic": "Technique basics and coaching cues",
+            "url": "https://www.youtube.com/results?search_query=Football%20beginner%20training%20tutorial"
+          },
+          {
+            "title": "Football practice drills",
+            "topic": "5v5 possession + Cone agility with ball",
+            "url": "https://www.youtube.com/results?search_query=Football%20practice%20drills%205v5%20possession"
+          },
+          {
+            "title": "Football tournament preparation",
+            "topic": "Match readiness, warm-up, and pressure practice",
+            "url": "https://www.youtube.com/results?search_query=Football%20tournament%20preparation%20training"
+          }
+        ],
+        "focusMap": [
+          {
+            "phase": "Phase 1",
+            "focus": "Aerobic Base"
+          },
+          {
+            "phase": "Phase 2",
+            "focus": "Sprint Intervals"
+          },
+          {
+            "phase": "Phase 3",
+            "focus": "Agility"
+          },
+          {
+            "phase": "Phase 4",
+            "focus": "Single-leg Strength"
+          }
+        ]
+      },
+      "recovery": [
+        "Sleep 7-9 hours when possible; recovery is part of training.",
+        "Keep at least one low-intensity day after hard intervals or match play.",
+        "Use 5-10 minutes of mobility for hips, ankles, thoracic spine, and shoulders.",
+        "If sharp pain appears, stop the session and reassess before continuing."
+      ],
+      "safetyChecks": [
+        "This is fitness guidance, not a medical diagnosis.",
+        "Stop exercise and seek medical help for chest pain, faintness, severe breathlessness, or dizziness.",
+        "Do not train through sharp pain or swelling.",
+        "Increase weekly running volume or lifting load gradually.",
+        "Supplements are optional and should not replace normal food.",
+        "Do not use steroids, banned substances, or crash diets.",
+        "For pregnancy, chronic illness, heart symptoms, or active injuries, consult a doctor, physiotherapist, or certified coach."
+      ],
+      "baselineGuidance": [
+        {
+          "label": "India",
+          "value": "Weather aware",
+          "detail": "Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress. Hydration is adjusted for Bengaluru, training time, heat, and humidity."
+        },
+        {
+          "label": "Safety",
+          "value": "Red flags",
+          "detail": "No injury notes were entered, so the plan still checks for sharp pain, dizziness, chest pain, swelling, and unusual breathlessness."
+        },
+        {
+          "label": "Baseline",
+          "value": "WHO goals",
+          "detail": "Aim for 150-300 minutes of moderate cardio each week plus 4 strength sessions. This plan turns that baseline into simple weekly steps."
+        }
+      ],
+      "progressMetrics": [
+        "Workout completion",
+        "Body weight trend",
+        "Sleep duration",
+        "Energy and soreness score",
+        "Football performance notes",
+        "Weekly consistency score"
+      ],
+      "progressPlan": [
+        {
+          "metric": "Workout completion",
+          "target": "Complete 4 planned sessions each week"
+        },
+        {
+          "metric": "Body weight trend",
+          "target": "Update once weekly, same time of day"
+        },
+        {
+          "metric": "Sleep duration",
+          "target": "Log a simple 1-5 score after each training day"
+        },
+        {
+          "metric": "Energy and soreness score",
+          "target": "Log a simple 1-5 score after each training day"
+        },
+        {
+          "metric": "Football performance notes",
+          "target": "Log a simple 1-5 score after each training day"
+        },
+        {
+          "metric": "Weekly consistency score",
+          "target": "Log a simple 1-5 score after each training day"
+        }
+      ],
+      "dailyChallenges": [
+        {
+          "title": "Five-minute warm-up streak",
+          "description": "Before every Football session, finish mobility, breathing, and easy movement first."
+        },
+        {
+          "title": "Skill touch challenge",
+          "description": "Spend 10 focused minutes on one technical drill before conditioning."
+        },
+        {
+          "title": "Recovery check-in",
+          "description": "Rate sleep, soreness, hydration, and energy before increasing intensity."
+        },
+        {
+          "title": "Coach note",
+          "description": "Write one thing that improved and one thing to practice next session."
+        }
+      ]
+    }
+  },
+  {
+    "generatedAt": "2026-05-02T13:18:12.192Z",
+    "userProfile": {
+      "name": "Aarav",
+      "age": 20,
+      "gender": "Male",
+      "heightCm": 174,
+      "weightKg": 72,
+      "goal": "Healthy weight gain",
+      "sport": "Football",
+      "activityLevel": "Moderate",
+      "foodPreference": "Non-vegetarian",
+      "language": "Tamil",
+      "voiceLanguage": "Tamil",
+      "chennaiArea": "Bengaluru",
+      "outdoorTrainingTime": "Early morning",
+      "trainingDays": 4,
+      "durationWeeks": 8,
+      "injuryHistory": "Wrist pain",
+      "equipment": "Home/bodyweight, Barbell"
+    },
+    "roadmap": {
+      "success": true,
+      "partial": false,
+      "generatedAt": "2026-05-02T13:18:12.192Z",
+      "errors": [],
+      "userProfile": {
+        "name": "Aarav",
+        "age": 20,
+        "gender": "Male",
+        "heightCm": 174,
+        "weightKg": 72,
+        "goal": "Healthy weight gain",
+        "sport": "Football",
+        "activityLevel": "Moderate",
+        "foodPreference": "Non-vegetarian",
+        "language": "Tamil",
+        "voiceLanguage": "Tamil",
+        "chennaiArea": "Bengaluru",
+        "outdoorTrainingTime": "Early morning",
+        "trainingDays": 4,
+        "durationWeeks": 8,
+        "injuryHistory": "Wrist pain",
+        "equipment": "Home/bodyweight, Barbell"
+      },
+      "mentorSummary": "Aarav, உங்கள் 4 நாள் திட்டம் Football பயிற்சியுடன் Healthy weight gain இலக்குக்காக உருவாக்கப்பட்டுள்ளது. சென்னையின் வெப்பம் மற்றும் ஈரப்பதம் காரணமாக கடினமான வெளிப்புற பயிற்சியை காலை 8 மணிக்கு முன் அல்லது மாலை 5:30க்கு பிறகு செய்யுங்கள். உங்கள் காயம் குறிப்பு: \"Wrist pain\". எனவே வலியில்லாத இயக்கமும் மெதுவான முன்னேற்றமும் முதன்மை.",
+      "caloriePlan": {
+        "maintenanceCalories": 2570,
+        "targetCalories": 2920,
+        "proteinGrams": 130,
+        "hydrationLitres": 3.2
+      },
+      "weeklyPlan": [
+        {
+          "day": "திங்கள்",
+          "focus": "ஏரோபிக் அடித்தளம்",
+          "session": [
+            "வார்ம் அப்: 8 நிமிடம் வேக நடை அல்லது மெதுவான ஜாக், பிறகு டைனமிக் மொபிலிட்டி",
+            "முக்கியம்: ஏரோபிக் அடித்தளம் பயிற்சி 25-35 நிமிடம், moderate தீவிரத்தில்",
+            "பலப் பயிற்சி: Home/bodyweight, Barbell பயன்படுத்தி 3 சுற்றுகள் ஸ்குவாட், லஞ்ச், புஷ்-அப், ரோ, பிளாங்க்",
+            "கண்டிஷனிங்: 30 விநாடி வேக முயற்சி + 90 விநாடி மெதுவான மீட்பு, 6 சுற்றுகள்",
+            "கூல் டவுன்: 5 நிமிடம் நடை மற்றும் மெதுவான மூச்சுப் பயிற்சி"
+          ]
+        },
+        {
+          "day": "செவ்வாய்",
+          "focus": "ஸ்பிரிண்ட் இடைவெளிகள்",
+          "session": [
+            "வார்ம் அப்: 8 நிமிடம் வேக நடை அல்லது மெதுவான ஜாக், பிறகு டைனமிக் மொபிலிட்டி",
+            "முக்கியம்: ஸ்பிரிண்ட் இடைவெளிகள் பயிற்சி 25-35 நிமிடம், moderate தீவிரத்தில்",
+            "பலப் பயிற்சி: Home/bodyweight, Barbell பயன்படுத்தி 3 சுற்றுகள் ஸ்குவாட், லஞ்ச், புஷ்-அப், ரோ, பிளாங்க்",
+            "திறன்: முழு ஓய்வுடன் 15 நிமிடம் கட்டுப்படுத்தப்பட்ட டெக்னிக் பயிற்சி",
+            "கூல் டவுன்: 5 நிமிடம் நடை மற்றும் மெதுவான மூச்சுப் பயிற்சி"
+          ]
+        },
+        {
+          "day": "புதன்",
+          "focus": "சுறுசுறுப்பு",
+          "session": [
+            "வார்ம் அப்: 8 நிமிடம் வேக நடை அல்லது மெதுவான ஜாக், பிறகு டைனமிக் மொபிலிட்டி",
+            "முக்கியம்: சுறுசுறுப்பு பயிற்சி 25-35 நிமிடம், moderate தீவிரத்தில்",
+            "பலப் பயிற்சி: Home/bodyweight, Barbell பயன்படுத்தி 3 சுற்றுகள் ஸ்குவாட், லஞ்ச், புஷ்-அப், ரோ, பிளாங்க்",
+            "கண்டிஷனிங்: 30 விநாடி வேக முயற்சி + 90 விநாடி மெதுவான மீட்பு, 6 சுற்றுகள்",
+            "கூல் டவுன்: 5 நிமிடம் நடை மற்றும் மெதுவான மூச்சுப் பயிற்சி"
+          ]
+        },
+        {
+          "day": "வியாழன்",
+          "focus": "ஒற்றைக் கால் பலம்",
+          "session": [
+            "வார்ம் அப்: 8 நிமிடம் வேக நடை அல்லது மெதுவான ஜாக், பிறகு டைனமிக் மொபிலிட்டி",
+            "முக்கியம்: ஒற்றைக் கால் பலம் பயிற்சி 25-35 நிமிடம், moderate தீவிரத்தில்",
+            "பலப் பயிற்சி: Home/bodyweight, Barbell பயன்படுத்தி 3 சுற்றுகள் ஸ்குவாட், லஞ்ச், புஷ்-அப், ரோ, பிளாங்க்",
+            "திறன்: முழு ஓய்வுடன் 15 நிமிடம் கட்டுப்படுத்தப்பட்ட டெக்னிக் பயிற்சி",
+            "கூல் டவுன்: 5 நிமிடம் நடை மற்றும் மெதுவான மூச்சுப் பயிற்சி"
+          ]
+        },
+        {
+          "day": "ஞாயிறு",
+          "focus": "மீட்பு",
+          "session": [
+            "20-30 நிமிடம் எளிய நடை",
+            "இடுப்பு, கால்வலி பகுதி, மார்பு, தோள் ஆகியவற்றுக்கு லைட் ஸ்ட்ரெச்சிங்",
+            "எடை, தூக்கம், தசை வலி, பயிற்சி குறிப்புகள் ஆகியவற்றை மதிப்பாய்வு செய்யுங்கள்"
+          ]
+        }
+      ],
+      "multiWeekPlan": [
+        {
+          "week": 1,
+          "theme": "Foundation",
+          "coachingCue": "Progress only when movement quality, sleep, and soreness are under control.",
+          "days": [
+            {
+              "day": "திங்கள்",
+              "focus": "ஏரோபிக் அடித்தளம் - Foundation",
+              "session": [
+                "வார்ம் அப்: 8 நிமிடம் வேக நடை அல்லது மெதுவான ஜாக், பிறகு டைனமிக் மொபிலிட்டி",
+                "முக்கியம்: ஏரோபிக் அடித்தளம் பயிற்சி 25-35 நிமிடம், moderate தீவிரத்தில்",
+                "பலப் பயிற்சி: Home/bodyweight, Barbell பயன்படுத்தி 3 சுற்றுகள் ஸ்குவாட், லஞ்ச், புஷ்-அப், ரோ, பிளாங்க்",
+                "கண்டிஷனிங்: 30 விநாடி வேக முயற்சி + 90 விநாடி மெதுவான மீட்பு, 6 சுற்றுகள்",
+                "கூல் டவுன்: 5 நிமிடம் நடை மற்றும் மெதுவான மூச்சுப் பயிற்சி"
+              ]
+            },
+            {
+              "day": "செவ்வாய்",
+              "focus": "ஸ்பிரிண்ட் இடைவெளிகள் - Foundation",
+              "session": [
+                "வார்ம் அப்: 8 நிமிடம் வேக நடை அல்லது மெதுவான ஜாக், பிறகு டைனமிக் மொபிலிட்டி",
+                "முக்கியம்: ஸ்பிரிண்ட் இடைவெளிகள் பயிற்சி 25-35 நிமிடம், moderate தீவிரத்தில்",
+                "பலப் பயிற்சி: Home/bodyweight, Barbell பயன்படுத்தி 3 சுற்றுகள் ஸ்குவாட், லஞ்ச், புஷ்-அப், ரோ, பிளாங்க்",
+                "திறன்: முழு ஓய்வுடன் 15 நிமிடம் கட்டுப்படுத்தப்பட்ட டெக்னிக் பயிற்சி",
+                "கூல் டவுன்: 5 நிமிடம் நடை மற்றும் மெதுவான மூச்சுப் பயிற்சி"
+              ]
+            },
+            {
+              "day": "புதன்",
+              "focus": "சுறுசுறுப்பு - Foundation",
+              "session": [
+                "வார்ம் அப்: 8 நிமிடம் வேக நடை அல்லது மெதுவான ஜாக், பிறகு டைனமிக் மொபிலிட்டி",
+                "முக்கியம்: சுறுசுறுப்பு பயிற்சி 25-35 நிமிடம், moderate தீவிரத்தில்",
+                "பலப் பயிற்சி: Home/bodyweight, Barbell பயன்படுத்தி 3 சுற்றுகள் ஸ்குவாட், லஞ்ச், புஷ்-அப், ரோ, பிளாங்க்",
+                "கண்டிஷனிங்: 30 விநாடி வேக முயற்சி + 90 விநாடி மெதுவான மீட்பு, 6 சுற்றுகள்",
+                "கூல் டவுன்: 5 நிமிடம் நடை மற்றும் மெதுவான மூச்சுப் பயிற்சி"
+              ]
+            },
+            {
+              "day": "வியாழன்",
+              "focus": "ஒற்றைக் கால் பலம் - Foundation",
+              "session": [
+                "வார்ம் அப்: 8 நிமிடம் வேக நடை அல்லது மெதுவான ஜாக், பிறகு டைனமிக் மொபிலிட்டி",
+                "முக்கியம்: ஒற்றைக் கால் பலம் பயிற்சி 25-35 நிமிடம், moderate தீவிரத்தில்",
+                "பலப் பயிற்சி: Home/bodyweight, Barbell பயன்படுத்தி 3 சுற்றுகள் ஸ்குவாட், லஞ்ச், புஷ்-அப், ரோ, பிளாங்க்",
+                "திறன்: முழு ஓய்வுடன் 15 நிமிடம் கட்டுப்படுத்தப்பட்ட டெக்னிக் பயிற்சி",
+                "கூல் டவுன்: 5 நிமிடம் நடை மற்றும் மெதுவான மூச்சுப் பயிற்சி"
+              ]
+            },
+            {
+              "day": "ஞாயிறு",
+              "focus": "மீட்பு",
+              "session": [
+                "20-30 நிமிடம் எளிய நடை",
+                "இடுப்பு, கால்வலி பகுதி, மார்பு, தோள் ஆகியவற்றுக்கு லைட் ஸ்ட்ரெச்சிங்",
+                "எடை, தூக்கம், தசை வலி, பயிற்சி குறிப்புகள் ஆகியவற்றை மதிப்பாய்வு செய்யுங்கள்"
+              ]
+            }
+          ]
+        },
+        {
+          "week": 2,
+          "theme": "Foundation",
+          "coachingCue": "Progress only when movement quality, sleep, and soreness are under control.",
+          "days": [
+            {
+              "day": "திங்கள்",
+              "focus": "ஏரோபிக் அடித்தளம் - Foundation",
+              "session": [
+                "வார்ம் அப்: 8 நிமிடம் வேக நடை அல்லது மெதுவான ஜாக், பிறகு டைனமிக் மொபிலிட்டி",
+                "முக்கியம்: ஏரோபிக் அடித்தளம் பயிற்சி 25-35 நிமிடம், moderate தீவிரத்தில்",
+                "பலப் பயிற்சி: Home/bodyweight, Barbell பயன்படுத்தி 3 சுற்றுகள் ஸ்குவாட், லஞ்ச், புஷ்-அப், ரோ, பிளாங்க்",
+                "கண்டிஷனிங்: 30 விநாடி வேக முயற்சி + 90 விநாடி மெதுவான மீட்பு, 6 சுற்றுகள்",
+                "கூல் டவுன்: 5 நிமிடம் நடை மற்றும் மெதுவான மூச்சுப் பயிற்சி"
+              ]
+            },
+            {
+              "day": "செவ்வாய்",
+              "focus": "ஸ்பிரிண்ட் இடைவெளிகள் - Foundation",
+              "session": [
+                "வார்ம் அப்: 8 நிமிடம் வேக நடை அல்லது மெதுவான ஜாக், பிறகு டைனமிக் மொபிலிட்டி",
+                "முக்கியம்: ஸ்பிரிண்ட் இடைவெளிகள் பயிற்சி 25-35 நிமிடம், moderate தீவிரத்தில்",
+                "பலப் பயிற்சி: Home/bodyweight, Barbell பயன்படுத்தி 3 சுற்றுகள் ஸ்குவாட், லஞ்ச், புஷ்-அப், ரோ, பிளாங்க்",
+                "திறன்: முழு ஓய்வுடன் 15 நிமிடம் கட்டுப்படுத்தப்பட்ட டெக்னிக் பயிற்சி",
+                "கூல் டவுன்: 5 நிமிடம் நடை மற்றும் மெதுவான மூச்சுப் பயிற்சி"
+              ]
+            },
+            {
+              "day": "புதன்",
+              "focus": "சுறுசுறுப்பு - Foundation",
+              "session": [
+                "வார்ம் அப்: 8 நிமிடம் வேக நடை அல்லது மெதுவான ஜாக், பிறகு டைனமிக் மொபிலிட்டி",
+                "முக்கியம்: சுறுசுறுப்பு பயிற்சி 25-35 நிமிடம், moderate தீவிரத்தில்",
+                "பலப் பயிற்சி: Home/bodyweight, Barbell பயன்படுத்தி 3 சுற்றுகள் ஸ்குவாட், லஞ்ச், புஷ்-அப், ரோ, பிளாங்க்",
+                "கண்டிஷனிங்: 30 விநாடி வேக முயற்சி + 90 விநாடி மெதுவான மீட்பு, 6 சுற்றுகள்",
+                "கூல் டவுன்: 5 நிமிடம் நடை மற்றும் மெதுவான மூச்சுப் பயிற்சி"
+              ]
+            },
+            {
+              "day": "வியாழன்",
+              "focus": "ஒற்றைக் கால் பலம் - Foundation",
+              "session": [
+                "வார்ம் அப்: 8 நிமிடம் வேக நடை அல்லது மெதுவான ஜாக், பிறகு டைனமிக் மொபிலிட்டி",
+                "முக்கியம்: ஒற்றைக் கால் பலம் பயிற்சி 25-35 நிமிடம், moderate தீவிரத்தில்",
+                "பலப் பயிற்சி: Home/bodyweight, Barbell பயன்படுத்தி 3 சுற்றுகள் ஸ்குவாட், லஞ்ச், புஷ்-அப், ரோ, பிளாங்க்",
+                "திறன்: முழு ஓய்வுடன் 15 நிமிடம் கட்டுப்படுத்தப்பட்ட டெக்னிக் பயிற்சி",
+                "கூல் டவுன்: 5 நிமிடம் நடை மற்றும் மெதுவான மூச்சுப் பயிற்சி"
+              ]
+            },
+            {
+              "day": "ஞாயிறு",
+              "focus": "மீட்பு",
+              "session": [
+                "20-30 நிமிடம் எளிய நடை",
+                "இடுப்பு, கால்வலி பகுதி, மார்பு, தோள் ஆகியவற்றுக்கு லைட் ஸ்ட்ரெச்சிங்",
+                "எடை, தூக்கம், தசை வலி, பயிற்சி குறிப்புகள் ஆகியவற்றை மதிப்பாய்வு செய்யுங்கள்"
+              ]
+            }
+          ]
+        },
+        {
+          "week": 3,
+          "theme": "Skill Build",
+          "coachingCue": "Progress only when movement quality, sleep, and soreness are under control.",
+          "days": [
+            {
+              "day": "திங்கள்",
+              "focus": "ஏரோபிக் அடித்தளம் - Skill Build",
+              "session": [
+                "வார்ம் அப்: 8 நிமிடம் வேக நடை அல்லது மெதுவான ஜாக், பிறகு டைனமிக் மொபிலிட்டி",
+                "முக்கியம்: ஏரோபிக் அடித்தளம் பயிற்சி 25-35 நிமிடம், moderate தீவிரத்தில்",
+                "பலப் பயிற்சி: Home/bodyweight, Barbell பயன்படுத்தி 3 சுற்றுகள் ஸ்குவாட், லஞ்ச், புஷ்-அப், ரோ, பிளாங்க்",
+                "கண்டிஷனிங்: 30 விநாடி வேக முயற்சி + 90 விநாடி மெதுவான மீட்பு, 6 சுற்றுகள்",
+                "கூல் டவுன்: 5 நிமிடம் நடை மற்றும் மெதுவான மூச்சுப் பயிற்சி"
+              ]
+            },
+            {
+              "day": "செவ்வாய்",
+              "focus": "ஸ்பிரிண்ட் இடைவெளிகள் - Skill Build",
+              "session": [
+                "வார்ம் அப்: 8 நிமிடம் வேக நடை அல்லது மெதுவான ஜாக், பிறகு டைனமிக் மொபிலிட்டி",
+                "முக்கியம்: ஸ்பிரிண்ட் இடைவெளிகள் பயிற்சி 25-35 நிமிடம், moderate தீவிரத்தில்",
+                "பலப் பயிற்சி: Home/bodyweight, Barbell பயன்படுத்தி 3 சுற்றுகள் ஸ்குவாட், லஞ்ச், புஷ்-அப், ரோ, பிளாங்க்",
+                "திறன்: முழு ஓய்வுடன் 15 நிமிடம் கட்டுப்படுத்தப்பட்ட டெக்னிக் பயிற்சி",
+                "கூல் டவுன்: 5 நிமிடம் நடை மற்றும் மெதுவான மூச்சுப் பயிற்சி"
+              ]
+            },
+            {
+              "day": "புதன்",
+              "focus": "சுறுசுறுப்பு - Skill Build",
+              "session": [
+                "வார்ம் அப்: 8 நிமிடம் வேக நடை அல்லது மெதுவான ஜாக், பிறகு டைனமிக் மொபிலிட்டி",
+                "முக்கியம்: சுறுசுறுப்பு பயிற்சி 25-35 நிமிடம், moderate தீவிரத்தில்",
+                "பலப் பயிற்சி: Home/bodyweight, Barbell பயன்படுத்தி 3 சுற்றுகள் ஸ்குவாட், லஞ்ச், புஷ்-அப், ரோ, பிளாங்க்",
+                "கண்டிஷனிங்: 30 விநாடி வேக முயற்சி + 90 விநாடி மெதுவான மீட்பு, 6 சுற்றுகள்",
+                "கூல் டவுன்: 5 நிமிடம் நடை மற்றும் மெதுவான மூச்சுப் பயிற்சி"
+              ]
+            },
+            {
+              "day": "வியாழன்",
+              "focus": "ஒற்றைக் கால் பலம் - Skill Build",
+              "session": [
+                "வார்ம் அப்: 8 நிமிடம் வேக நடை அல்லது மெதுவான ஜாக், பிறகு டைனமிக் மொபிலிட்டி",
+                "முக்கியம்: ஒற்றைக் கால் பலம் பயிற்சி 25-35 நிமிடம், moderate தீவிரத்தில்",
+                "பலப் பயிற்சி: Home/bodyweight, Barbell பயன்படுத்தி 3 சுற்றுகள் ஸ்குவாட், லஞ்ச், புஷ்-அப், ரோ, பிளாங்க்",
+                "திறன்: முழு ஓய்வுடன் 15 நிமிடம் கட்டுப்படுத்தப்பட்ட டெக்னிக் பயிற்சி",
+                "கூல் டவுன்: 5 நிமிடம் நடை மற்றும் மெதுவான மூச்சுப் பயிற்சி"
+              ]
+            },
+            {
+              "day": "ஞாயிறு",
+              "focus": "மீட்பு",
+              "session": [
+                "20-30 நிமிடம் எளிய நடை",
+                "இடுப்பு, கால்வலி பகுதி, மார்பு, தோள் ஆகியவற்றுக்கு லைட் ஸ்ட்ரெச்சிங்",
+                "எடை, தூக்கம், தசை வலி, பயிற்சி குறிப்புகள் ஆகியவற்றை மதிப்பாய்வு செய்யுங்கள்"
+              ]
+            }
+          ]
+        },
+        {
+          "week": 4,
+          "theme": "Skill Build",
+          "coachingCue": "Progress only when movement quality, sleep, and soreness are under control.",
+          "days": [
+            {
+              "day": "திங்கள்",
+              "focus": "ஏரோபிக் அடித்தளம் - Skill Build",
+              "session": [
+                "வார்ம் அப்: 8 நிமிடம் வேக நடை அல்லது மெதுவான ஜாக், பிறகு டைனமிக் மொபிலிட்டி",
+                "முக்கியம்: ஏரோபிக் அடித்தளம் பயிற்சி 25-35 நிமிடம், moderate தீவிரத்தில்",
+                "பலப் பயிற்சி: Home/bodyweight, Barbell பயன்படுத்தி 3 சுற்றுகள் ஸ்குவாட், லஞ்ச், புஷ்-அப், ரோ, பிளாங்க்",
+                "கண்டிஷனிங்: 30 விநாடி வேக முயற்சி + 90 விநாடி மெதுவான மீட்பு, 6 சுற்றுகள்",
+                "கூல் டவுன்: 5 நிமிடம் நடை மற்றும் மெதுவான மூச்சுப் பயிற்சி"
+              ]
+            },
+            {
+              "day": "செவ்வாய்",
+              "focus": "ஸ்பிரிண்ட் இடைவெளிகள் - Skill Build",
+              "session": [
+                "வார்ம் அப்: 8 நிமிடம் வேக நடை அல்லது மெதுவான ஜாக், பிறகு டைனமிக் மொபிலிட்டி",
+                "முக்கியம்: ஸ்பிரிண்ட் இடைவெளிகள் பயிற்சி 25-35 நிமிடம், moderate தீவிரத்தில்",
+                "பலப் பயிற்சி: Home/bodyweight, Barbell பயன்படுத்தி 3 சுற்றுகள் ஸ்குவாட், லஞ்ச், புஷ்-அப், ரோ, பிளாங்க்",
+                "திறன்: முழு ஓய்வுடன் 15 நிமிடம் கட்டுப்படுத்தப்பட்ட டெக்னிக் பயிற்சி",
+                "கூல் டவுன்: 5 நிமிடம் நடை மற்றும் மெதுவான மூச்சுப் பயிற்சி"
+              ]
+            },
+            {
+              "day": "புதன்",
+              "focus": "சுறுசுறுப்பு - Skill Build",
+              "session": [
+                "வார்ம் அப்: 8 நிமிடம் வேக நடை அல்லது மெதுவான ஜாக், பிறகு டைனமிக் மொபிலிட்டி",
+                "முக்கியம்: சுறுசுறுப்பு பயிற்சி 25-35 நிமிடம், moderate தீவிரத்தில்",
+                "பலப் பயிற்சி: Home/bodyweight, Barbell பயன்படுத்தி 3 சுற்றுகள் ஸ்குவாட், லஞ்ச், புஷ்-அப், ரோ, பிளாங்க்",
+                "கண்டிஷனிங்: 30 விநாடி வேக முயற்சி + 90 விநாடி மெதுவான மீட்பு, 6 சுற்றுகள்",
+                "கூல் டவுன்: 5 நிமிடம் நடை மற்றும் மெதுவான மூச்சுப் பயிற்சி"
+              ]
+            },
+            {
+              "day": "வியாழன்",
+              "focus": "ஒற்றைக் கால் பலம் - Skill Build",
+              "session": [
+                "வார்ம் அப்: 8 நிமிடம் வேக நடை அல்லது மெதுவான ஜாக், பிறகு டைனமிக் மொபிலிட்டி",
+                "முக்கியம்: ஒற்றைக் கால் பலம் பயிற்சி 25-35 நிமிடம், moderate தீவிரத்தில்",
+                "பலப் பயிற்சி: Home/bodyweight, Barbell பயன்படுத்தி 3 சுற்றுகள் ஸ்குவாட், லஞ்ச், புஷ்-அப், ரோ, பிளாங்க்",
+                "திறன்: முழு ஓய்வுடன் 15 நிமிடம் கட்டுப்படுத்தப்பட்ட டெக்னிக் பயிற்சி",
+                "கூல் டவுன்: 5 நிமிடம் நடை மற்றும் மெதுவான மூச்சுப் பயிற்சி"
+              ]
+            },
+            {
+              "day": "ஞாயிறு",
+              "focus": "மீட்பு",
+              "session": [
+                "20-30 நிமிடம் எளிய நடை",
+                "இடுப்பு, கால்வலி பகுதி, மார்பு, தோள் ஆகியவற்றுக்கு லைட் ஸ்ட்ரெச்சிங்",
+                "எடை, தூக்கம், தசை வலி, பயிற்சி குறிப்புகள் ஆகியவற்றை மதிப்பாய்வு செய்யுங்கள்"
+              ]
+            }
+          ]
+        },
+        {
+          "week": 5,
+          "theme": "Intensity",
+          "coachingCue": "Progress only when movement quality, sleep, and soreness are under control.",
+          "days": [
+            {
+              "day": "திங்கள்",
+              "focus": "ஏரோபிக் அடித்தளம் - Intensity",
+              "session": [
+                "வார்ம் அப்: 8 நிமிடம் வேக நடை அல்லது மெதுவான ஜாக், பிறகு டைனமிக் மொபிலிட்டி",
+                "முக்கியம்: ஏரோபிக் அடித்தளம் பயிற்சி 25-35 நிமிடம், moderate தீவிரத்தில்",
+                "பலப் பயிற்சி: Home/bodyweight, Barbell பயன்படுத்தி 3 சுற்றுகள் ஸ்குவாட், லஞ்ச், புஷ்-அப், ரோ, பிளாங்க்",
+                "கண்டிஷனிங்: 30 விநாடி வேக முயற்சி + 90 விநாடி மெதுவான மீட்பு, 6 சுற்றுகள்",
+                "கூல் டவுன்: 5 நிமிடம் நடை மற்றும் மெதுவான மூச்சுப் பயிற்சி"
+              ]
+            },
+            {
+              "day": "செவ்வாய்",
+              "focus": "ஸ்பிரிண்ட் இடைவெளிகள் - Intensity",
+              "session": [
+                "வார்ம் அப்: 8 நிமிடம் வேக நடை அல்லது மெதுவான ஜாக், பிறகு டைனமிக் மொபிலிட்டி",
+                "முக்கியம்: ஸ்பிரிண்ட் இடைவெளிகள் பயிற்சி 25-35 நிமிடம், moderate தீவிரத்தில்",
+                "பலப் பயிற்சி: Home/bodyweight, Barbell பயன்படுத்தி 3 சுற்றுகள் ஸ்குவாட், லஞ்ச், புஷ்-அப், ரோ, பிளாங்க்",
+                "திறன்: முழு ஓய்வுடன் 15 நிமிடம் கட்டுப்படுத்தப்பட்ட டெக்னிக் பயிற்சி",
+                "கூல் டவுன்: 5 நிமிடம் நடை மற்றும் மெதுவான மூச்சுப் பயிற்சி"
+              ]
+            },
+            {
+              "day": "புதன்",
+              "focus": "சுறுசுறுப்பு - Intensity",
+              "session": [
+                "வார்ம் அப்: 8 நிமிடம் வேக நடை அல்லது மெதுவான ஜாக், பிறகு டைனமிக் மொபிலிட்டி",
+                "முக்கியம்: சுறுசுறுப்பு பயிற்சி 25-35 நிமிடம், moderate தீவிரத்தில்",
+                "பலப் பயிற்சி: Home/bodyweight, Barbell பயன்படுத்தி 3 சுற்றுகள் ஸ்குவாட், லஞ்ச், புஷ்-அப், ரோ, பிளாங்க்",
+                "கண்டிஷனிங்: 30 விநாடி வேக முயற்சி + 90 விநாடி மெதுவான மீட்பு, 6 சுற்றுகள்",
+                "கூல் டவுன்: 5 நிமிடம் நடை மற்றும் மெதுவான மூச்சுப் பயிற்சி"
+              ]
+            },
+            {
+              "day": "வியாழன்",
+              "focus": "ஒற்றைக் கால் பலம் - Intensity",
+              "session": [
+                "வார்ம் அப்: 8 நிமிடம் வேக நடை அல்லது மெதுவான ஜாக், பிறகு டைனமிக் மொபிலிட்டி",
+                "முக்கியம்: ஒற்றைக் கால் பலம் பயிற்சி 25-35 நிமிடம், moderate தீவிரத்தில்",
+                "பலப் பயிற்சி: Home/bodyweight, Barbell பயன்படுத்தி 3 சுற்றுகள் ஸ்குவாட், லஞ்ச், புஷ்-அப், ரோ, பிளாங்க்",
+                "திறன்: முழு ஓய்வுடன் 15 நிமிடம் கட்டுப்படுத்தப்பட்ட டெக்னிக் பயிற்சி",
+                "கூல் டவுன்: 5 நிமிடம் நடை மற்றும் மெதுவான மூச்சுப் பயிற்சி"
+              ]
+            },
+            {
+              "day": "ஞாயிறு",
+              "focus": "மீட்பு",
+              "session": [
+                "20-30 நிமிடம் எளிய நடை",
+                "இடுப்பு, கால்வலி பகுதி, மார்பு, தோள் ஆகியவற்றுக்கு லைட் ஸ்ட்ரெச்சிங்",
+                "எடை, தூக்கம், தசை வலி, பயிற்சி குறிப்புகள் ஆகியவற்றை மதிப்பாய்வு செய்யுங்கள்"
+              ]
+            }
+          ]
+        },
+        {
+          "week": 6,
+          "theme": "Intensity",
+          "coachingCue": "Progress only when movement quality, sleep, and soreness are under control.",
+          "days": [
+            {
+              "day": "திங்கள்",
+              "focus": "ஏரோபிக் அடித்தளம் - Intensity",
+              "session": [
+                "வார்ம் அப்: 8 நிமிடம் வேக நடை அல்லது மெதுவான ஜாக், பிறகு டைனமிக் மொபிலிட்டி",
+                "முக்கியம்: ஏரோபிக் அடித்தளம் பயிற்சி 25-35 நிமிடம், moderate தீவிரத்தில்",
+                "பலப் பயிற்சி: Home/bodyweight, Barbell பயன்படுத்தி 3 சுற்றுகள் ஸ்குவாட், லஞ்ச், புஷ்-அப், ரோ, பிளாங்க்",
+                "கண்டிஷனிங்: 30 விநாடி வேக முயற்சி + 90 விநாடி மெதுவான மீட்பு, 6 சுற்றுகள்",
+                "கூல் டவுன்: 5 நிமிடம் நடை மற்றும் மெதுவான மூச்சுப் பயிற்சி"
+              ]
+            },
+            {
+              "day": "செவ்வாய்",
+              "focus": "ஸ்பிரிண்ட் இடைவெளிகள் - Intensity",
+              "session": [
+                "வார்ம் அப்: 8 நிமிடம் வேக நடை அல்லது மெதுவான ஜாக், பிறகு டைனமிக் மொபிலிட்டி",
+                "முக்கியம்: ஸ்பிரிண்ட் இடைவெளிகள் பயிற்சி 25-35 நிமிடம், moderate தீவிரத்தில்",
+                "பலப் பயிற்சி: Home/bodyweight, Barbell பயன்படுத்தி 3 சுற்றுகள் ஸ்குவாட், லஞ்ச், புஷ்-அப், ரோ, பிளாங்க்",
+                "திறன்: முழு ஓய்வுடன் 15 நிமிடம் கட்டுப்படுத்தப்பட்ட டெக்னிக் பயிற்சி",
+                "கூல் டவுன்: 5 நிமிடம் நடை மற்றும் மெதுவான மூச்சுப் பயிற்சி"
+              ]
+            },
+            {
+              "day": "புதன்",
+              "focus": "சுறுசுறுப்பு - Intensity",
+              "session": [
+                "வார்ம் அப்: 8 நிமிடம் வேக நடை அல்லது மெதுவான ஜாக், பிறகு டைனமிக் மொபிலிட்டி",
+                "முக்கியம்: சுறுசுறுப்பு பயிற்சி 25-35 நிமிடம், moderate தீவிரத்தில்",
+                "பலப் பயிற்சி: Home/bodyweight, Barbell பயன்படுத்தி 3 சுற்றுகள் ஸ்குவாட், லஞ்ச், புஷ்-அப், ரோ, பிளாங்க்",
+                "கண்டிஷனிங்: 30 விநாடி வேக முயற்சி + 90 விநாடி மெதுவான மீட்பு, 6 சுற்றுகள்",
+                "கூல் டவுன்: 5 நிமிடம் நடை மற்றும் மெதுவான மூச்சுப் பயிற்சி"
+              ]
+            },
+            {
+              "day": "வியாழன்",
+              "focus": "ஒற்றைக் கால் பலம் - Intensity",
+              "session": [
+                "வார்ம் அப்: 8 நிமிடம் வேக நடை அல்லது மெதுவான ஜாக், பிறகு டைனமிக் மொபிலிட்டி",
+                "முக்கியம்: ஒற்றைக் கால் பலம் பயிற்சி 25-35 நிமிடம், moderate தீவிரத்தில்",
+                "பலப் பயிற்சி: Home/bodyweight, Barbell பயன்படுத்தி 3 சுற்றுகள் ஸ்குவாட், லஞ்ச், புஷ்-அப், ரோ, பிளாங்க்",
+                "திறன்: முழு ஓய்வுடன் 15 நிமிடம் கட்டுப்படுத்தப்பட்ட டெக்னிக் பயிற்சி",
+                "கூல் டவுன்: 5 நிமிடம் நடை மற்றும் மெதுவான மூச்சுப் பயிற்சி"
+              ]
+            },
+            {
+              "day": "ஞாயிறு",
+              "focus": "மீட்பு",
+              "session": [
+                "20-30 நிமிடம் எளிய நடை",
+                "இடுப்பு, கால்வலி பகுதி, மார்பு, தோள் ஆகியவற்றுக்கு லைட் ஸ்ட்ரெச்சிங்",
+                "எடை, தூக்கம், தசை வலி, பயிற்சி குறிப்புகள் ஆகியவற்றை மதிப்பாய்வு செய்யுங்கள்"
+              ]
+            }
+          ]
+        },
+        {
+          "week": 7,
+          "theme": "Tournament Ready",
+          "coachingCue": "Progress only when movement quality, sleep, and soreness are under control.",
+          "days": [
+            {
+              "day": "திங்கள்",
+              "focus": "ஏரோபிக் அடித்தளம் - Tournament Ready",
+              "session": [
+                "வார்ம் அப்: 8 நிமிடம் வேக நடை அல்லது மெதுவான ஜாக், பிறகு டைனமிக் மொபிலிட்டி",
+                "முக்கியம்: ஏரோபிக் அடித்தளம் பயிற்சி 25-35 நிமிடம், moderate தீவிரத்தில்",
+                "பலப் பயிற்சி: Home/bodyweight, Barbell பயன்படுத்தி 3 சுற்றுகள் ஸ்குவாட், லஞ்ச், புஷ்-அப், ரோ, பிளாங்க்",
+                "கண்டிஷனிங்: 30 விநாடி வேக முயற்சி + 90 விநாடி மெதுவான மீட்பு, 6 சுற்றுகள்",
+                "கூல் டவுன்: 5 நிமிடம் நடை மற்றும் மெதுவான மூச்சுப் பயிற்சி"
+              ]
+            },
+            {
+              "day": "செவ்வாய்",
+              "focus": "ஸ்பிரிண்ட் இடைவெளிகள் - Tournament Ready",
+              "session": [
+                "வார்ம் அப்: 8 நிமிடம் வேக நடை அல்லது மெதுவான ஜாக், பிறகு டைனமிக் மொபிலிட்டி",
+                "முக்கியம்: ஸ்பிரிண்ட் இடைவெளிகள் பயிற்சி 25-35 நிமிடம், moderate தீவிரத்தில்",
+                "பலப் பயிற்சி: Home/bodyweight, Barbell பயன்படுத்தி 3 சுற்றுகள் ஸ்குவாட், லஞ்ச், புஷ்-அப், ரோ, பிளாங்க்",
+                "திறன்: முழு ஓய்வுடன் 15 நிமிடம் கட்டுப்படுத்தப்பட்ட டெக்னிக் பயிற்சி",
+                "கூல் டவுன்: 5 நிமிடம் நடை மற்றும் மெதுவான மூச்சுப் பயிற்சி"
+              ]
+            },
+            {
+              "day": "புதன்",
+              "focus": "சுறுசுறுப்பு - Tournament Ready",
+              "session": [
+                "வார்ம் அப்: 8 நிமிடம் வேக நடை அல்லது மெதுவான ஜாக், பிறகு டைனமிக் மொபிலிட்டி",
+                "முக்கியம்: சுறுசுறுப்பு பயிற்சி 25-35 நிமிடம், moderate தீவிரத்தில்",
+                "பலப் பயிற்சி: Home/bodyweight, Barbell பயன்படுத்தி 3 சுற்றுகள் ஸ்குவாட், லஞ்ச், புஷ்-அப், ரோ, பிளாங்க்",
+                "கண்டிஷனிங்: 30 விநாடி வேக முயற்சி + 90 விநாடி மெதுவான மீட்பு, 6 சுற்றுகள்",
+                "கூல் டவுன்: 5 நிமிடம் நடை மற்றும் மெதுவான மூச்சுப் பயிற்சி"
+              ]
+            },
+            {
+              "day": "வியாழன்",
+              "focus": "ஒற்றைக் கால் பலம் - Tournament Ready",
+              "session": [
+                "வார்ம் அப்: 8 நிமிடம் வேக நடை அல்லது மெதுவான ஜாக், பிறகு டைனமிக் மொபிலிட்டி",
+                "முக்கியம்: ஒற்றைக் கால் பலம் பயிற்சி 25-35 நிமிடம், moderate தீவிரத்தில்",
+                "பலப் பயிற்சி: Home/bodyweight, Barbell பயன்படுத்தி 3 சுற்றுகள் ஸ்குவாட், லஞ்ச், புஷ்-அப், ரோ, பிளாங்க்",
+                "திறன்: முழு ஓய்வுடன் 15 நிமிடம் கட்டுப்படுத்தப்பட்ட டெக்னிக் பயிற்சி",
+                "கூல் டவுன்: 5 நிமிடம் நடை மற்றும் மெதுவான மூச்சுப் பயிற்சி"
+              ]
+            },
+            {
+              "day": "ஞாயிறு",
+              "focus": "மீட்பு",
+              "session": [
+                "20-30 நிமிடம் எளிய நடை",
+                "இடுப்பு, கால்வலி பகுதி, மார்பு, தோள் ஆகியவற்றுக்கு லைட் ஸ்ட்ரெச்சிங்",
+                "எடை, தூக்கம், தசை வலி, பயிற்சி குறிப்புகள் ஆகியவற்றை மதிப்பாய்வு செய்யுங்கள்"
+              ]
+            }
+          ]
+        },
+        {
+          "week": 8,
+          "theme": "Tournament Ready",
+          "coachingCue": "Keep sessions sharp and reduce extra fatigue so performance feels fresh.",
+          "days": [
+            {
+              "day": "திங்கள்",
+              "focus": "ஏரோபிக் அடித்தளம் - Tournament Ready",
+              "session": [
+                "வார்ம் அப்: 8 நிமிடம் வேக நடை அல்லது மெதுவான ஜாக், பிறகு டைனமிக் மொபிலிட்டி",
+                "முக்கியம்: ஏரோபிக் அடித்தளம் பயிற்சி 25-35 நிமிடம், moderate தீவிரத்தில்",
+                "பலப் பயிற்சி: Home/bodyweight, Barbell பயன்படுத்தி 3 சுற்றுகள் ஸ்குவாட், லஞ்ச், புஷ்-அப், ரோ, பிளாங்க்",
+                "கண்டிஷனிங்: 30 விநாடி வேக முயற்சி + 90 விநாடி மெதுவான மீட்பு, 6 சுற்றுகள்",
+                "கூல் டவுன்: 5 நிமிடம் நடை மற்றும் மெதுவான மூச்சுப் பயிற்சி"
+              ]
+            },
+            {
+              "day": "செவ்வாய்",
+              "focus": "ஸ்பிரிண்ட் இடைவெளிகள் - Tournament Ready",
+              "session": [
+                "வார்ம் அப்: 8 நிமிடம் வேக நடை அல்லது மெதுவான ஜாக், பிறகு டைனமிக் மொபிலிட்டி",
+                "முக்கியம்: ஸ்பிரிண்ட் இடைவெளிகள் பயிற்சி 25-35 நிமிடம், moderate தீவிரத்தில்",
+                "பலப் பயிற்சி: Home/bodyweight, Barbell பயன்படுத்தி 3 சுற்றுகள் ஸ்குவாட், லஞ்ச், புஷ்-அப், ரோ, பிளாங்க்",
+                "திறன்: முழு ஓய்வுடன் 15 நிமிடம் கட்டுப்படுத்தப்பட்ட டெக்னிக் பயிற்சி",
+                "கூல் டவுன்: 5 நிமிடம் நடை மற்றும் மெதுவான மூச்சுப் பயிற்சி"
+              ]
+            },
+            {
+              "day": "புதன்",
+              "focus": "சுறுசுறுப்பு - Tournament Ready",
+              "session": [
+                "வார்ம் அப்: 8 நிமிடம் வேக நடை அல்லது மெதுவான ஜாக், பிறகு டைனமிக் மொபிலிட்டி",
+                "முக்கியம்: சுறுசுறுப்பு பயிற்சி 25-35 நிமிடம், moderate தீவிரத்தில்",
+                "பலப் பயிற்சி: Home/bodyweight, Barbell பயன்படுத்தி 3 சுற்றுகள் ஸ்குவாட், லஞ்ச், புஷ்-அப், ரோ, பிளாங்க்",
+                "கண்டிஷனிங்: 30 விநாடி வேக முயற்சி + 90 விநாடி மெதுவான மீட்பு, 6 சுற்றுகள்",
+                "கூல் டவுன்: 5 நிமிடம் நடை மற்றும் மெதுவான மூச்சுப் பயிற்சி"
+              ]
+            },
+            {
+              "day": "வியாழன்",
+              "focus": "ஒற்றைக் கால் பலம் - Tournament Ready",
+              "session": [
+                "வார்ம் அப்: 8 நிமிடம் வேக நடை அல்லது மெதுவான ஜாக், பிறகு டைனமிக் மொபிலிட்டி",
+                "முக்கியம்: ஒற்றைக் கால் பலம் பயிற்சி 25-35 நிமிடம், moderate தீவிரத்தில்",
+                "பலப் பயிற்சி: Home/bodyweight, Barbell பயன்படுத்தி 3 சுற்றுகள் ஸ்குவாட், லஞ்ச், புஷ்-அப், ரோ, பிளாங்க்",
+                "திறன்: முழு ஓய்வுடன் 15 நிமிடம் கட்டுப்படுத்தப்பட்ட டெக்னிக் பயிற்சி",
+                "கூல் டவுன்: 5 நிமிடம் நடை மற்றும் மெதுவான மூச்சுப் பயிற்சி"
+              ]
+            },
+            {
+              "day": "ஞாயிறு",
+              "focus": "மீட்பு",
+              "session": [
+                "20-30 நிமிடம் எளிய நடை",
+                "இடுப்பு, கால்வலி பகுதி, மார்பு, தோள் ஆகியவற்றுக்கு லைட் ஸ்ட்ரெச்சிங்",
+                "எடை, தூக்கம், தசை வலி, பயிற்சி குறிப்புகள் ஆகியவற்றை மதிப்பாய்வு செய்யுங்கள்"
+              ]
+            }
+          ]
+        }
+      ],
+      "foodGuidance": {
+        "preWorkout": [
+          "தண்ணீருடன் வாழைப்பழம்",
+          "சாம்பாருடன் இட்லி",
+          "பயிற்சிக்கு 60 நிமிடம் மேல் இருந்தால் சிறிய தோசை"
+        ],
+        "postWorkout": [
+          "சாதம் அல்லது சப்பாத்தியுடன் முட்டை, சிக்கன், மீன், தயிர், பருப்பு, பனீர் அல்லது சன்னா",
+          "வெப்பத்தால் பசி குறைந்தால் தயிர் சாதம் அல்லது மோர்",
+          "அதிக வியர்வைக்கு பிறகு இளநீர்"
+        ],
+        "dailyMeals": [
+          "ஒவ்வொரு உணவிலும் புரதம், சாதம் அல்லது சப்பாத்தி, காய்கறி, சிறிது நல்ல கொழுப்பு சேர்க்கவும்",
+          "வறுத்த ஸ்நாக்ஸ் மற்றும் இனிப்பு பானங்களை குறைக்கவும்",
+          "கிராஷ் டயட் வேண்டாம்; அளவுகளை மெதுவாக சரிசெய்து வாராந்திர முன்னேற்றத்தை பாருங்கள்"
+        ]
+      },
+      "languageSupport": {
+        "selectedLanguage": "Tamil",
+        "selectedVoiceLanguage": "Tamil",
+        "voiceLocale": "ta-IN",
+        "note": "வழிகாட்டி உரைக்கு Tamil, குரல் உரையாடல்களுக்கு Tamil பயன்படுத்தப்படும்."
+      },
+      "voiceScript": "Aarav, உங்கள் 4 நாள் திட்டம் Football பயிற்சியுடன் Healthy weight gain இலக்குக்காக உருவாக்கப்பட்டுள்ளது. சென்னையின் வெப்பம் மற்றும் ஈரப்பதம் காரணமாக கடினமான வெளிப்புற பயிற்சியை காலை 8 மணிக்கு முன் அல்லது மாலை 5:30க்கு பிறகு செய்யுங்கள். உங்கள் காயம் குறிப்பு: \"Wrist pain\". எனவே வலியில்லாத இயக்கமும் மெதுவான முன்னேற்றமும் முதன்மை. இலக்கு கலோரி: 2920. புரதம்: 130 கிராம். தண்ணீர்: 3.2 லிட்டர். திங்கள். ஏரோபிக் அடித்தளம். வார்ம் அப்: 8 நிமிடம் வேக நடை அல்லது மெதுவான ஜாக், பிறகு டைனமிக் மொபிலிட்டி முக்கியம்: ஏரோபிக் அடித்தளம் பயிற்சி 25-35 நிமிடம், moderate தீவிரத்தில் பலப் பயிற்சி: Home/bodyweight, Barbell பயன்படுத்தி 3 சுற்றுகள் ஸ்குவாட், லஞ்ச், புஷ்-அப், ரோ, பிளாங்க் கண்டிஷனிங்: 30 விநாடி வேக முயற்சி + 90 விநாடி மெதுவான மீட்பு, 6 சுற்றுகள் கூல் டவுன்: 5 நிமிடம் நடை மற்றும் மெதுவான மூச்சுப் பயிற்சி தண்ணீருடன் வாழைப்பழம் சாம்பாருடன் இட்லி பயிற்சிக்கு 60 நிமிடம் மேல் இருந்தால் சிறிய தோசை சாதம் அல்லது சப்பாத்தியுடன் முட்டை, சிக்கன், மீன், தயிர், பருப்பு, பனீர் அல்லது சன்னா வெப்பத்தால் பசி குறைந்தால் தயிர் சாதம் அல்லது மோர் அதிக வியர்வைக்கு பிறகு இளநீர் மார்பு வலி, மயக்கம், கடுமையான மூச்சுத்திணறல் அல்லது தலைசுற்றல் இருந்தால் உடனே மருத்துவ உதவி பெறுங்கள். கூர்மையான வலி அல்லது வீக்கம் இருந்தால் பயிற்சி செய்ய வேண்டாம். ஓட்ட தூரம் அல்லது எடைப் பயிற்சி சுமையை மெதுவாக மட்டுமே அதிகரிக்கவும். சப்பிளிமெண்ட்ஸ் கட்டாயமில்லை; சாதாரண உணவை மாற்றக்கூடாது.",
+      "sportGuidance": {
+        "sport": "Football",
+        "level": "Moderate",
+        "goal": "Healthy weight gain",
+        "mentor": [
+          "Balance stamina with ball work so fitness transfers directly into match decisions.",
+          "Use small-sided games for scanning, passing timing, pressing, and recovery runs.",
+          "Review one tactical theme each week: positioning, transition, pressing, or finishing."
+        ],
+        "fitness": [
+          "Alternate aerobic base runs with sprint intervals and change-of-direction work.",
+          "Add single-leg strength for acceleration, deceleration, and knee control.",
+          "Keep mobility for hips, ankles, hamstrings, and calves after every session."
+        ],
+        "tournament": [
+          "Ten days out: make sessions more match-like and reduce extra conditioning.",
+          "Two days out: use light touches, passing rhythm, and set-piece rehearsal.",
+          "Game day: eat early, hydrate steadily, and warm up with progressive sprints."
+        ],
+        "drills": [
+          "5v5 possession",
+          "Cone agility with ball",
+          "First-touch wall passes",
+          "Finishing after sprint"
+        ],
+        "milestones": [
+          "Better beep-test or timed-run score",
+          "Cleaner first touch",
+          "More successful presses",
+          "Stable late-game energy"
+        ],
+        "equipment": [
+          "Studs or turf shoes, shin guards, ball, cones, bibs",
+          "Foam roller or massage ball",
+          "Hydration bottle for interval sessions"
+        ],
+        "tactics": [
+          "Scan before receiving the ball",
+          "Create passing angles after every pass",
+          "Press as a unit and recover shape quickly"
+        ],
+        "injuryPrevention": [
+          "Train hamstring eccentric strength",
+          "Practice deceleration and knee alignment",
+          "Keep ankle and hip mobility consistent"
+        ],
+        "nutrition": [
+          "Use carb-rich meals 3-4 hours before matches",
+          "Hydrate before warm-up, not only after sweating",
+          "Recover with protein and fluids within 60 minutes"
+        ],
+        "eventFormats": [
+          "League match",
+          "Knockout tournament",
+          "Five-a-side event",
+          "Selection trial"
+        ],
+        "mistakes": [
+          "Running without ball work",
+          "Overtraining sprints before matches",
+          "Skipping cool-down after hard play"
+        ],
+        "videoMentors": [
+          {
+            "title": "Football beginner mentor",
+            "topic": "Technique basics and coaching cues",
+            "url": "https://www.youtube.com/results?search_query=Football%20beginner%20training%20tutorial"
+          },
+          {
+            "title": "Football practice drills",
+            "topic": "5v5 possession + Cone agility with ball",
+            "url": "https://www.youtube.com/results?search_query=Football%20practice%20drills%205v5%20possession"
+          },
+          {
+            "title": "Football tournament preparation",
+            "topic": "Match readiness, warm-up, and pressure practice",
+            "url": "https://www.youtube.com/results?search_query=Football%20tournament%20preparation%20training"
+          }
+        ],
+        "focusMap": [
+          {
+            "phase": "Phase 1",
+            "focus": "Aerobic Base"
+          },
+          {
+            "phase": "Phase 2",
+            "focus": "Sprint Intervals"
+          },
+          {
+            "phase": "Phase 3",
+            "focus": "Agility"
+          },
+          {
+            "phase": "Phase 4",
+            "focus": "Single-leg Strength"
+          }
+        ]
+      },
+      "recovery": [
+        "முடிந்தால் 7-9 மணி நேரம் தூங்குங்கள்; மீட்பும் பயிற்சியின் ஒரு பகுதி.",
+        "கடின இடைவெளி பயிற்சி அல்லது போட்டிக்குப் பிறகு குறைந்த தீவிர நாள் வைத்துக்கொள்ளுங்கள்.",
+        "இடுப்பு, கணுக்கால், மேல் முதுகு, தோள் ஆகியவற்றுக்கு 5-10 நிமிடம் மொபிலிட்டி செய்யுங்கள்.",
+        "பழைய காய வலி திரும்பினால் தீவிரத்தை குறைத்து பிஸியோதெரபிஸ்டை அணுகுங்கள்."
+      ],
+      "safetyChecks": [
+        "மார்பு வலி, மயக்கம், கடுமையான மூச்சுத்திணறல் அல்லது தலைசுற்றல் இருந்தால் உடனே மருத்துவ உதவி பெறுங்கள்.",
+        "கூர்மையான வலி அல்லது வீக்கம் இருந்தால் பயிற்சி செய்ய வேண்டாம்.",
+        "ஓட்ட தூரம் அல்லது எடைப் பயிற்சி சுமையை மெதுவாக மட்டுமே அதிகரிக்கவும்.",
+        "சப்பிளிமெண்ட்ஸ் கட்டாயமில்லை; சாதாரண உணவை மாற்றக்கூடாது."
+      ],
+      "baselineGuidance": [
+        {
+          "label": "India",
+          "value": "Weather aware",
+          "detail": "Early morning is usually the best outdoor window in India for harder sessions; still carry water and watch for heat stress. Hydration is adjusted for Bengaluru, training time, heat, and humidity."
+        },
+        {
+          "label": "Safety",
+          "value": "Red flags",
+          "detail": "Logged notes include \"Wrist pain\". Keep the next session easy if symptoms are active, and get qualified help for red flags."
+        },
+        {
+          "label": "Baseline",
+          "value": "WHO goals",
+          "detail": "Aim for 150-300 minutes of moderate cardio each week plus 4 strength sessions. This plan turns that baseline into simple weekly steps."
+        }
+      ],
+      "progressMetrics": [
+        "பயிற்சி நிறைவு",
+        "உடல் எடை போக்கு",
+        "தூக்க நேரம்",
+        "ஆற்றல் மற்றும் தசை வலி மதிப்பு",
+        "Football செயல்திறன் குறிப்புகள்"
+      ],
+      "progressPlan": [
+        {
+          "metric": "பயிற்சி நிறைவு",
+          "target": "Complete 4 planned sessions each week"
+        },
+        {
+          "metric": "உடல் எடை போக்கு",
+          "target": "Update once weekly, same time of day"
+        },
+        {
+          "metric": "தூக்க நேரம்",
+          "target": "Log a simple 1-5 score after each training day"
+        },
+        {
+          "metric": "ஆற்றல் மற்றும் தசை வலி மதிப்பு",
+          "target": "Log a simple 1-5 score after each training day"
+        },
+        {
+          "metric": "Football செயல்திறன் குறிப்புகள்",
+          "target": "Log a simple 1-5 score after each training day"
+        }
+      ],
+      "dailyChallenges": [
+        {
+          "title": "Five-minute warm-up streak",
+          "description": "Before every Football session, finish mobility, breathing, and easy movement first."
+        },
+        {
+          "title": "Skill touch challenge",
+          "description": "Spend 10 focused minutes on one technical drill before conditioning."
+        },
+        {
+          "title": "Recovery check-in",
+          "description": "Rate sleep, soreness, hydration, and energy before increasing intensity."
+        },
+        {
+          "title": "Coach note",
+          "description": "Write one thing that improved and one thing to practice next session."
+        }
+      ]
+    }
   }
 ]

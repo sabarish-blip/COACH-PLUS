@@ -13,6 +13,19 @@ const port = Number(process.env.PORT || 4000);
 app.use(cors());
 app.use(express.json({ limit: "1mb" }));
 
+// ✅ Root route (FIX)
+app.get("/", (_req, res) => {
+  res.json({
+    message: "Coach Plus Backend is running 🚀",
+    endpoints: {
+      health: "/api/health",
+      generate: "/api/generate",
+      languagePacks: "/api/language-packs"
+    }
+  });
+});
+
+// Health check
 app.get("/api/health", (_req, res) => {
   res.json({
     status: "ok",
@@ -21,6 +34,7 @@ app.get("/api/health", (_req, res) => {
   });
 });
 
+// List language packs
 app.get("/api/language-packs", async (_req, res) => {
   try {
     res.json({
@@ -33,6 +47,7 @@ app.get("/api/language-packs", async (_req, res) => {
   }
 });
 
+// Download language pack
 app.get("/api/language-packs/:packId/download", async (req, res) => {
   try {
     const pack = await getLanguagePack(req.params.packId);
@@ -44,6 +59,7 @@ app.get("/api/language-packs/:packId/download", async (req, res) => {
   }
 });
 
+// Generate roadmap
 app.post("/api/generate", async (req, res) => {
   try {
     const payload = normalizeRequest(req.body);
@@ -70,17 +86,16 @@ app.post("/api/generate", async (req, res) => {
   }
 });
 
+// Start server
 const server = app.listen(port, () => {
   console.log(`[Coach Plus] Server listening on http://localhost:${port}`);
 });
 
+// Error handling
 server.on("error", (error) => {
   if (error.code === "EADDRINUSE") {
     console.error(
       `[Coach Plus] Port ${port} is already in use. The backend may already be running at http://localhost:${port}.`
-    );
-    console.error(
-      "[Coach Plus] Reuse the existing server, stop the other process, or set PORT in backend/.env to a different value."
     );
     process.exit(1);
     return;
@@ -90,6 +105,7 @@ server.on("error", (error) => {
   process.exit(1);
 });
 
+// Normalize request
 function normalizeRequest(body) {
   return {
     name: body.name,
